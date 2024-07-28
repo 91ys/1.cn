@@ -2,7 +2,7 @@
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8	
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193#http://171.88.35.80:4000/udp/239.93.0.156:2193
 唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
