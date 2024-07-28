@@ -2,13 +2,11 @@
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8	
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193#http://171.88.35.80:4000/udp/239.93.0.156:2193
 唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
-TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
