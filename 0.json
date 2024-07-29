@@ -20,7 +20,7 @@
 {"key":"drpy_js狗狗","name":"搜狗","type":3,"api":"./lib/drpy21.min.js","ext":"./js/菜狗.js"},
 {"key":"备用","name":"天天","type":3,"api":"csp_TTian","playerType":1,"jar":"https://gitee.com/kosan75/tv/raw/master/jar/tiantian.jar","ext":"http://op.ysdqjs.cn"},
 
-{"key":"Alist", "name": "小雅┃网盘","type":3,"api":"http://42.242.94.194:5678//tvbox/libs/alist.min.js","searchable":1,"quickSearch": 1,"filterable":0,"ext":"http://42.242.94.194:5678//tvbox/json/alist_ext.json;200;video"},
+{"key":"Alist", "name": "小雅┃网盘","type":3,"api":"http://xiaoya.host:5678/tvbox/libs/alist.min.js","searchable":1,"quickSearch": 1,"filterable":0,"ext":"http://xiaoya.host:5678/tvbox/json/alist_ext.json;200;video"},
 
  {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1}, 
  {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./FTY/MTV.json"},
