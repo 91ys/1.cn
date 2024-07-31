@@ -10,7 +10,7 @@
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"drpy_js_360影视","name":"360","type":3,"api":"./lib/drpy21.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"./lib/drpy21.min.js","ext":"./js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾讯","type":3,"api":"./lib/drpy21.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/腾云驾雾.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾讯","type":3,"api":"./lib/drpy21.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/腾云驾雾.js"},
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./lib/drpy21.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"./lib/drpy21.min.js",
 "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
